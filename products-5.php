@@ -132,7 +132,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
 
-	<a target="_blank" href="https://api.whatsapp.com/send?phone=9509924199&text=aura_adventure" class="whatsapp-button"><i class="fab fa-whatsapp"></i></a>
+	<a target="_blank" href="https://api.whatsapp.com/send?phone=919509924199&text=aura_adventure" class="whatsapp-button"><i class="fab fa-whatsapp"></i></a>
 	<!-- Back to top button -->
 	<a id="button"></a>
 	<div class="sub_banner position-relative">
