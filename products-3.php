@@ -93,6 +93,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!-- Mirrored from html.designingmedia.com/seaquest/activity.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 22 Aug 2024 12:47:35 GMT -->
 <head>
     <title>AURA ADVENTURE JUNCTION LLP</title>
+    
+    <!-- ROCKET BOOM -->
+    <meta name="Keywords" content="Boom Lift Rental, Boom Lift Hire, Boom Lift On Rent, service providers, consultants, consulting firms, New Delhi, बूम लिफ्ट रेंटल, New delhi India">
+    <meta name="Description" content="Boom Lift Rental Providers in new delhi, बूम लिफ्ट रेंटल सर्विस प्रोवाइडर. Get contact details and address of Boom Lift Rental, Boom Lift Hire, Boom Lift On Rent firms and companies in new delhi">
+    <!-- HIGH ROPE COURSE -->
+    <meta name="keywords" content="High Rope Course manufacturer &amp; oem manufacturer, rope course, rope course, adventure &amp; trekking tours, Adventure 1 , Adventure 1 Zone map &amp; directions">
+<!-- soap football -->
+<meta name="keywords" content="Soapfootball Saket, Reviews, Contact number, Phone number, Address, Map, Soapfootball Delhi, Ratings, Directions, Official website link, Working hours, Services" >
+<!-- INFLATABLE MELTDOWN -->
+<meta property="description" content="Jumpking India, largest inflatable water slide &amp; bounce house supplier, wholesaler manufacturer. Fun commercial inflatable bounce house game Melt Down Inflatable">
+
     <!-- /SEO Ultimate -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">

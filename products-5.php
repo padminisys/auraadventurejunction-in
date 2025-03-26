@@ -92,6 +92,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <head>
 	<title>AURA ADVENTURE JUNCTION LLP</title>
+	<meta property="description" content="Nothing says summer like a trip to a water park. Cool off with friends and family while slipping and sliding through various fun water structures for an adventurous excursion. Whether you are plann…">
+	<meta name="keywords" content="Trampoline for Rent, Inflatable Water Roller for Rent, Inflatable Land Zorbing Ball, Inflatable Gladiator Duel, Inflatable Micky Mouse, Hot Air Balloon Ride India, Inflatable Balling Alley for Rent, Inflatable Body Zorbing Ball, Human Sling Shoot, Bungee Injection, Zipline for Rent India, Zipcycle for Rent, Low Rope Course India, Bungee Jump in India, Climbing Wall for Rent, ATV Ride Rental India, Commando Nets, Mechanical Bull Ride for Rent, Burma Ride, Inflatable Running Bungee, Rocket Boom, Inflatable Swimming Pool for Rent, High Rope Course, Paintball Rental India, Soapy Football, Kids Pedal Boats, Inflatable Climbing Wall, Inflatable Meltdown, Inflatable Advertisement Stand, Bungee Basket, Water Walking Wall, Air Advertisement Balloon, Inflatable Big Gloves Boxing, Inflatable Sumo Suit, Inflatable Tug of War, Giant Swing for Rent, Parasailing in India, Bungee Trampoline, Tree House Path Bridge, Funny Pony, Path Bridge, Inflatable Hoopla, Human Gyroscope, Paramotor, Archery Game, Flying Fox, Inflatable Adventure Park Rental, Hanging Bridge, Multi Activity Tower, All Types of Bridges, Tyre Run and Nets for Rent, Cheap Inflatable Rental India, Affordable Inflatable Rides in India, Inflatable Amusement Rides India, Inflatable Games for Rent in India, Rent Inflatable Adventure Equipment India, Inflatable Amusement Park India, Best Inflatable Rentals India, Rent Inflatable Obstacle Courses India, Affordable Adventure Rentals India, Inflatables for Parties India, Inflatable Rentals for Events India, Cheap Inflatable Games India">
+
+	
+	
 	<!-- /SEO Ultimate -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta charset="utf-8">
@@ -1024,9 +1029,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 			<!-- ... -->
 		</div>
 
-		<div class="copyright">
-			<p class="mb-0 text-size-14">Copyright 2024, Aura Adventure LLP All Rights Reserved.</p>
-		</div>
+		
 	</section>
 
 	<!-- PRE LOADER -->
