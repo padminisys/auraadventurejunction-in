@@ -96,6 +96,28 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!-- Mirrored from html.designingmedia.com/seaquest/activity.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 22 Aug 2024 12:47:35 GMT -->
 <head>
     <title>AURA ADVENTURE JUNCTION LLP</title>
+    
+    <!-- Low Rope Course -->
+    <meta name="description" content="Adventure 1 Zone offering Low Rope Course in Samalka ,New Delhi. Get best quote, read reviews, view photos and find contact details ">
+    <meta name="keywords" content="Aura Adventure Junction, adventure activities in India, bungee jumping, zorbing, hot air balloon ride, rope course, trekking tours, adventure sports New Delhi, adventure company, inflatable games, team-building activities">
+
+    <!-- rock climbing -->
+    <meta name="description" content="Embark on an exhilarating wall climb adventure at aura adventure. Our Rock Climbing challenges are suitable for any age">
+    <meta property="og:title" content="Trampoline Wall Climb - Aura adventure junction">
+    <!-- Exciting Bull Ride -->
+    <meta name="Title" content="Exciting Bull Ride Rentals In New Delhi | Mechanical Bull">
+    <meta name="keywords" content="Bull Ride in New Delhi, Bull Ride for Birthday Party in New Delhi, Rent Bull Ride in New Delhi, Bull Ride Hire in New Delhi, Hire Bull Ride for Party New Delhi, Bull Ride for Rent, Bull Ride for Hire, New Delhi Bull Ride Services, Bull Ride Rental New Delhi">
+<!-- burma bridge -->
+<meta name="Keywords" content="Burma Bridge, manufacturers, suppliers, exporters, traders, dealers, manufacturing companies, retailers, producers, Adventure &amp; Trekking Tours India">
+   <!-- atv bikes  -->
+   <meta name="keywords" content="ATV in New DELHI, Veda Adventure Park, Off-Road Adventures,delhi  ATV Rides, Adventure Sports , Booking Inquiries">
+    <!-- commando net -->
+    <meta name="keywords" content="Commando Net manufacturer &amp; oem manufacturer, climbing net, rope course setup, adventure sporting &amp; trekking goods, India Adventures,  New Delhi, Delhi, India Adventures map &amp; directions">
+    <!-- bumgee jumping -->
+
+    
+    
+    
     <!-- /SEO Ultimate -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
     <meta charset="utf-8">

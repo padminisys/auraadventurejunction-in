@@ -90,6 +90,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <head>
 	<title>Contact Us | AURA ADVENTURE JUNCTION LLP</title>
+	<meta name="keywords" content="Inflatable Rentals India, Inflatable Games Rental, Cheap Adventure Equipment India, Trampoline Rentals India, Inflatable Zorbing Ball Rental India, Inflatable Water Sports India, Gladiator Duel Game India, Inflatable Obstacle Course Rental India, Hot Air Balloon Ride India, Rent Inflatable Water Roller, Mechanical Bull Ride Rental India, Bungee Jumping India, Zipline Rentals India, ATV Ride India, Inflatable Climbing Wall Rental, Commando Net Course India, Inflatable Theme Park India, Outdoor Adventure Rentals, Inflatable Adventure Equipment India, Party Entertainment Rentals India, Large Inflatable Rentals, Rent Zipcycle India, Inflatable High Rope Course India, Affordable Inflatable Rentals India, Kids Inflatable Rentals India, Birthday Party Rentals India, Inflatable Slide Rentals, Giant Inflatable Rentals, Inflatable Sports Rentals India, Rent Inflatable Games for Corporate Events, Inflatable Carnival Rentals, Adventure Park Equipment for Rent, Water Zorbing Ball India, Human Sling Shot India, Inflatable Obstacle Course for Events, Fun Party Rentals India, Affordable Bungee Jumping India, Fun Inflatable Games India, Zipline and Adventure Rentals India, Family Fun Rental India, Affordable Amusement Park Rentals, Rent Inflatable Swimming Pools, Corporate Event Rentals India, Affordable Inflatable Fun India, Rent Outdoor Adventure Rides, Event Rentals India, Inflatable Attractions for Rent India, Cheap Amusement Park Equipment India">
+
 	<!-- /SEO Ultimate -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta charset="utf-8">
